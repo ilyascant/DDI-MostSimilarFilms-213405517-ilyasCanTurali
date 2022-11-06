@@ -19,6 +19,9 @@
 ````
 clean_oyuncu = oyuncular.strip("[]").replace("'","").split(", ")
 ````
+### Oyuncular arasinda "NONE" isimli oyuncular vardi onlari islemlere katmamak icin NONE gorulen yerlerde matrix degerini +1 yapmak yerine o islemi iptal ettim.
+![resim](https://user-images.githubusercontent.com/79863003/200187530-2e01ada8-ae28-4641-bed9-266bedd6dde7.png)
+![resim](https://user-images.githubusercontent.com/79863003/200187466-e4244cdd-59c3-44b1-9009-45de3b1c6ac5.png)
 
 
 ## Aranan Film 'Kirpi Sonic 2' , 50 Adet
