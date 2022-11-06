@@ -28,7 +28,7 @@ clean_oyuncu = oyuncular.strip("[]").replace("'","").split(", ")
 ![resim](https://user-images.githubusercontent.com/79863003/200185144-095c06a8-0ded-43ec-ac07-4f434dd6ed29.png)
 > Resimde goruldugu gibi fazla arama sonuclari yapildiginda _ESKI ALGORITMADA_ tek parametre kullandigi icin aranan filmden bagimsiz onerilerde bulunabiliyor.
 Orn: resimdeki goruldugu gibi _ESKI ALGORITMADA_ 39. ve 43 Onerilerde __Kirpi Sonic 2__ den bagimsiz _KORKU_ filmleri onermis.
-ayni film icin __YENI ALGORITMADA__ ANIMASYON VE AILE_ filmleri onermeye devam etmistir.
+ayni film icin __YENI ALGORITMADA__ _ANIMASYON VE AILE_ filmleri onermeye devam etmistir.
 
 
 
